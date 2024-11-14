@@ -1,12 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
    <!-- basic -->
    
-   <!-- site metas -->
-   <title>Students Grievance System</title>
-  
    <!-- bootstrap css -->
    <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
    <!-- style css -->
