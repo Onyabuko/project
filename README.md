@@ -28,7 +28,7 @@
       media="screen">
 </head>
 
-<body>
+<body style="background-image: url('banner-gb.phg'); background-size: cover; background-repeat: no-repeat;">
    <!--header section start -->
    <div class="header_section">
       <div class="container-fluid ">
