@@ -1,0 +1,40 @@
+/* Wrapper for the sidebar and main content */
+#wrapper {
+    display: flex;
+    align-items: stretch;
+}
+
+/* Sidebar styling */
+#sidebar-wrapper {
+    width: 250px;
+}
+
+#sidebar-wrapper .sidebar-heading {
+    font-size: 1.5em;
+    padding: 1rem;
+}
+
+#sidebar-wrapper .list-group-item {
+    padding: 1rem 1.5rem;
+}
+
+#page-content-wrapper {
+    width: 100%;
+    padding: 2rem;
+}
+
+.toggled #sidebar-wrapper {
+    margin-left: -250px;
+}
+
+/* Card styling for stats */
+.card {
+    text-align: center;
+    font-size: 1.25rem;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Custom navbar for page header */
+.navbar {
+    padding: 0.8rem 1.5rem;
+}
